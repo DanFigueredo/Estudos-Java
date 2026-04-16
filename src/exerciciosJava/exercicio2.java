@@ -33,5 +33,5 @@ public class exercicio2 {
             System.out.println("Idade: " + age + " (menor de idade)");
         }
 
-    }
+    }//fim do programa
 }
