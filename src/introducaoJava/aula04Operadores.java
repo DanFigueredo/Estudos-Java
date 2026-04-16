@@ -8,7 +8,7 @@ public class aula04Operadores {
     public static void main(String[] args){
         int n1 = 10;
         int n2 = 20;
-        float result = (float) n1 / (float) n2;
+        float result = (float) n1 / n2;
         System.out.println(result);
 
         //% == resto da divisão
