@@ -32,6 +32,5 @@ public class exercicio2 {
         }else{
             System.out.println("Idade: " + age + " (menor de idade)");
         }
-
     }//fim do programa
 }
