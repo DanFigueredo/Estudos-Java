@@ -5,8 +5,22 @@ import java.util.Scanner;
 /*
 Daniel Figueredo
 17/04/2026
-Projeto
- */
+Sistema de Cadastro de Usuário (Console)
+
+ Aplicação desenvolvida em Java que realiza a captura de dados do usuário
+ (nome, idade e salário) via terminal e aplica regras de negócio para:
+
+ - Classificação de maioridade
+ - Classificação de renda (baixa, média e alta)
+ - Validação de elegibilidade para financiamento
+
+ O sistema processa as informações fornecidas e exibe um resumo estruturado
+ com os dados do usuário e seu status de financiamento.
+
+ Projeto desenvolvido com foco em prática de lógica de programação,
+ operadores condicionais e entrada de dados utilizando Scanner.
+*/
+
 public class SistemaCadastro {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -41,7 +55,7 @@ public class SistemaCadastro {
 
         if (age >= 18 && salary >= 3000){
             states = "Pode financiar";
-        }else if (age >= 18 && salary <= 3000){
+        }else if (age >= 18 && salary < 3000){
             states = "Renda insuficiente";
         }else{
             states = "Não pode financiar";
