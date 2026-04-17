@@ -4,7 +4,7 @@ Daniel Figueredo
 15/04/2026
 Programa que Pegue dados e mostre na saida
  */
-public class exercicio1 {
+public class Exercicio1 {
     public static void main(String[] args) {
         String name = "Daniel";
         int age = 19;
