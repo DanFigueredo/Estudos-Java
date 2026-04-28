@@ -1,6 +1,6 @@
 package introducaoJava;
 
-public class aula03TiposPrimitivosExercicio {
+public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String name = "Daniel";
         float payment = 2500.0f;

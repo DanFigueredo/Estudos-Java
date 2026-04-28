@@ -4,7 +4,7 @@ Daniel Figueredo
 16/04/2026
 Programa para aprender sobre operadores em Java
  */
-public class aula04Operadores {
+public class Aula04Operadores {
     public static void main(String[] args){
         int n1 = 10;
         int n2 = 20;
