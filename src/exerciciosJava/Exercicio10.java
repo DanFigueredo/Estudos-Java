@@ -20,7 +20,7 @@ public class Exercicio10 {
             System.out.println("If you want stop enter: 0");
             System.out.print("Enter a word: ");
             s1 = scanner.nextLine();
-
+            s1 = s1.toLowerCase();
             String s2 = "";
             if(s1.equals("0"))
             {
