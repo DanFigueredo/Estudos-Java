@@ -6,7 +6,7 @@ Daniel Figueredo
 17/04/2026
 Programa que le nome idade e salario e mostra se pode fazer um financiamento ou não.
  */
-public class Exercicio5 {
+public class Exercise5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String name;

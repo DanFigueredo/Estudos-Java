@@ -4,7 +4,7 @@ Daniel Figueredo
 27/04/2026
 Programa que le 2 arrays e faz um terceiro com a soma dos dois primeiros
  */
-public class Exercicio9 {
+public class Exercise9 {
     public static void main(String[] args) {
         int vet1[] = {10,20,30};
         int vet2[] = {40,50,60};

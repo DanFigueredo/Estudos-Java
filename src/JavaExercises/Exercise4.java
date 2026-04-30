@@ -7,7 +7,7 @@ Daniel Figueredo
 17/04/2026
 Programa que le 2 notas e calcule a media e mostre se esta aprovado
  */
-public class Exercicio4 {
+public class Exercise4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         float nota1;

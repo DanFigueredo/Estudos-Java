@@ -4,7 +4,7 @@ Daniel Figueredo
 27/04/2026
 Programa que soma os elementos de um array
  */
-public class Exercicio8 {
+public class Exercise8 {
     public static void main(String[] args) {
         int [] numbers = {10,20,30,40,50};
         int i;

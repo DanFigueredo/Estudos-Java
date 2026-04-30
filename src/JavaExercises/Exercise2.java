@@ -7,7 +7,7 @@ Daniel Figueredo
 Programa que pede dados ao usuario e retorna eles utilizando condições
 */
 
-public class Exercicio2 {
+public class Exercise2 {
     public static void  main(String[] args){
         Scanner scanner = new Scanner(System.in);
         String name;

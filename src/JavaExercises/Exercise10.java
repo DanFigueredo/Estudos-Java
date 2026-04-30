@@ -7,7 +7,7 @@ Daniel Figueredo
 28/04/2026
 Programa que verifica se duas strings são um palindromo.
  */
-public class Exercicio10 {
+public class Exercise10 {
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
