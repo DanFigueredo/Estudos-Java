@@ -1,4 +1,4 @@
-package introducaoJava;
+package academy.devdojo.maratonajava.JavaIntroduction;
 
 import java.util.Scanner;
 /*

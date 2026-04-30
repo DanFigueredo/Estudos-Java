@@ -1,6 +1,5 @@
-package exerciciosJava;
+package JavaExercises;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 /*

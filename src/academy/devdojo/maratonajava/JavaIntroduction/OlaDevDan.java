@@ -1,4 +1,4 @@
-package introducaoJava;
+package academy.devdojo.maratonajava.JavaIntroduction;
 
 /**
  * Comentario java docker ( pode ser usado html)

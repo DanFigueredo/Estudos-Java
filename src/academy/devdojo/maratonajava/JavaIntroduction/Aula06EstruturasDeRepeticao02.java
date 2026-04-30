@@ -1,4 +1,4 @@
-package introducaoJava;
+package academy.devdojo.maratonajava.JavaIntroduction;
 /*
 Daniel Figueredo
 23/02/2026

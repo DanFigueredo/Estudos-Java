@@ -1,4 +1,4 @@
-package exerciciosJava;
+package JavaExercises;
 /*
 Daniel Figueredo
 22/02/2026
