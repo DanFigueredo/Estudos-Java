@@ -16,12 +16,12 @@ public class Exercise11 {
         System.out.println("Person 1: ");
         System.out.println(person.getName());
         System.out.println(person.getAge());
-        
+
         System.out.println("--------------------------");
 
         System.out.println("Person 2: ");
         System.out.println(person2.getName());
         System.out.println(person2.getAge());
-
+        
     }
 }
