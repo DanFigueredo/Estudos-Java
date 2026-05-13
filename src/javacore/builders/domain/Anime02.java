@@ -4,10 +4,19 @@ public class Anime02 {
     private String name;
     private int episode;
 
-    public void init(String name, int episode){
+    public Anime02 (String name, int episode){
         this.name = name;
         this.episode = episode;
     }
+    public void print(){
+        System.out.println(this.name);
+        System.out.println(this.episode);
+    }
+
+//    public void init(String name, int episode){
+//        this.name = name;
+//        this.episode = episode;
+//    }
 
     public String getName() {
         return name;
