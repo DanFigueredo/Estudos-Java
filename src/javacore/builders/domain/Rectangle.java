@@ -6,9 +6,7 @@ public class Rectangle {
     private double area;
 
     public Rectangle(){
-        this.width = getWidth();
-        this.height = getHeight();
-        this.area = getArea();
+      
     }
 
     public void calculateArea(){
@@ -16,7 +14,9 @@ public class Rectangle {
     }
 
     public void showData(){
-        System.out.println();
+        System.out.println("Width: "+ this.width);
+        System.out.println("Height: "+this.height);
+        System.out.println("Area: "+ this.area);
     }
     public double getWidth() {
         return width;
