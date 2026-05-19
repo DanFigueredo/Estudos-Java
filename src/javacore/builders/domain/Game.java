@@ -21,9 +21,9 @@ public class Game {
     }
 
     public void showData(){
-        System.out.println("Nmae:" +this.name);
-        System.out.println(this.genre);
-        System.out.println(this.price);
+        System.out.println("Nmae:" + this.name);
+        System.out.println("Genre: " + this.genre);
+        System.out.println("Price: " + this.price);
     }
 
     public String getName() {
