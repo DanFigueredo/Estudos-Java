@@ -16,6 +16,7 @@ public class Exercise21 {
         System.out.print("Write the product stock: ");
         product.setStock(scanner.nextInt());
         product.addStock(10);
+        product.delStock(5);
 
         product.showData();
 
