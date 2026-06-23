@@ -4,7 +4,7 @@ import JavaExercises.Domain.PasswordValidator;
 
 import java.util.Scanner;
 
-public class Excercise23 {
+public class Exercise23 {
     public static void main(String[] args) {
         String confirmation;
         PasswordValidator password = new PasswordValidator();
