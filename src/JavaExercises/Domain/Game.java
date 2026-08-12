@@ -32,5 +32,6 @@ public class Game {
     public void showData(){
         System.out.println("Name: " + getName());
         System.out.println("Price: " + calculateFinalPrice());
+        System.out.println("=====================");
     }
 }
